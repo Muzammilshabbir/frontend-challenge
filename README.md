@@ -1,3 +1,7 @@
+use node version greater than 20
+run "npm install"
+run "npm start"
+
 # frontend-challenge
 
 ## Tech to use
